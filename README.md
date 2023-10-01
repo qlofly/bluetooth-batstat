@@ -1,8 +1,8 @@
 ### Obtaining Battery Level for Bluetooth Devices Guide
 
 My configration:
-OS - EndeavourOs
-WM - Sway
+- OS - EndeavourOs
+- WM - Sway
 
 To check the battery level of a Bluetooth device, you can follow these steps:
 
